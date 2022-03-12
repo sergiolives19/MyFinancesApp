@@ -1,0 +1,8 @@
+2021/04/29 2.55 transport
+2021/04/29 4.0 groceries
+2021/04/29 5.0 groceries
+2021/04/29 6.0 groceries
+2021/12/14 35.0 leisure
+2021/12/14 44.95 sport
+2021/12/14 33.0 leisure
+2021/12/14 22.0 transport
